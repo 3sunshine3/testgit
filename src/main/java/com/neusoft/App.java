@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!66　张三在本地修改的" );
+        System.out.println( "李四在远程仓库直接修改的！！！" );
     }
 }
